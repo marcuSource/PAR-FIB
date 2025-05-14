@@ -1,5 +1,5 @@
 # PAR-FIB
-Laboratoris 3, 4 i 5 de l'assignatura de Paral·lelismes (QT 24-25)
+Laboratoris 3, 4 i 5 de l'assignatura de Paral·lelismes (Q1 2024-2025)
 
 ## LAB3
 Nota: 8
